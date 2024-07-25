@@ -1,7 +1,7 @@
 #!/bin/bash
 
-##This script calculates microbial diversity indices based on Kraken results
-##It can idenitify differences between groups if specified
+##This script calculates microbial diversity indices based on Kraken results.
+##It can identify differences between groups if specified, for exmaple between betel chewers and non-chewers.
 #############################################
 ##Fill in information
 #############################################
